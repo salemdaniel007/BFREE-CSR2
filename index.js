@@ -3,3 +3,10 @@ function practice () {
 };
 
 practice();
+
+
+function practice2 () {
+    console.log('work hard play harder')
+};
+
+practice2();
